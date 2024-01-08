@@ -1,0 +1,362 @@
+
+.task {
+  position: relative;
+  background-color: #000;
+  width: 1800px;
+  height: 3328px;
+  text-align: center;
+  font-size: 19px;
+  color: #fff;
+  font-family: Roboto;
+}
+
+
+.cross {
+  position: relative;
+  top: 50px;
+  left: 790px;
+  width: 47px;
+  height: 47px;
+  object-fit: cover;
+  transition: transform 0.3s ease; 
+}
+
+.cross:hover {
+  transform: rotate(90deg); 
+}
+
+.epic-games {
+  position: absolute;
+  top: 147px;
+  left: calc(50% - 687px);
+  font-size: 45px;
+  letter-spacing: 0.96px;
+  line-height: 48px;
+  text-transform: capitalize;
+  font-weight: 200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1375px;
+}
+.fortnite-pictures {
+  position: absolute;
+  top: 293px;
+  left: calc(50% - 707px);
+  width: 1415px;
+  height: 500px;
+  object-fit: cover;
+}
+.create-play {
+  position: absolute;
+  top: 843px;
+  left: calc(50% - 615px);
+  font-size: 18px;
+  font-family: Poppins;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1231px;
+  opacity: 0.8;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  width: 416px;
+  height: 60px;
+}
+.visit-website {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 105px);
+  letter-spacing: 0.96px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 212.99px;
+}
+.rectangle-parent,
+.task-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 416px;
+  height: 60px;
+}
+.task-inner {
+  top: 979px;
+  left: 752px;
+  color: #000;
+  font-family: Poppins;
+}
+.mask-group-icon {
+  top: 1232px;
+  left: 389px;
+}
+.mask-group-icon,
+.mask-group-icon1,
+.mask-group-icon2 {
+  position: absolute;
+  width: 347px;
+  height: 347px;
+  object-fit: cover;
+}
+.mask-group-icon1 {
+  top: 1232px;
+  left: 787px;
+}
+.mask-group-icon2 {
+  top: calc(50% - 432px);
+  left: calc(50% + 225px);
+  margin-left: 50px;
+}
+.explore-large-destructible,
+.team-up-with {
+  top: 1612px;
+  letter-spacing: 0.02em;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 347px;
+}
+.explore-large-destructible {
+  position: absolute;
+  left: 389px;
+  text-transform: capitalize;
+}
+.team-up-with {
+  left: 787px;
+}
+.discover-even-more,
+.our-contribution,
+.team-up-with {
+  position: absolute;
+  text-transform: capitalize;
+}
+.discover-even-more {
+  top: 1612px;
+  left: 1185px;
+  letter-spacing: 0.02em;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 347px;
+}
+.our-contribution {
+  top: 0;
+  left: calc(50% - 168px);
+  line-height: 48px;
+  font-weight: 200;
+}
+.our-core-offering {
+  position: absolute;
+  top: 72px;
+  left: calc(50% - 571px);
+  font-size: 18px;
+  font-family: Poppins;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1142px;
+  opacity: 0.8;
+}
+.m,
+.our-contribution-parent {
+  position: absolute;
+  text-align: left;
+}
+.our-contribution-parent {
+  top: 1878px;
+  left: calc(50% - 571px);
+  width: 1142px;
+  height: 153px;
+  font-size: 42px;
+}
+.m {
+  top: 0;
+  left: 24px;
+  font-size: 80px;
+  line-height: 17.57px;
+  font-weight: 200;
+}
+.daily-user {
+  margin: 0;
+}
+.span {
+  line-height: 25px;
+}
+.daily-user-engagements-container {
+  position: absolute;
+  top: 90px;
+  left: 0;
+  font-weight: 300;
+}
+.revenue-surge-for-container,
+.roas-on-all-container {
+  position: absolute;
+  top: 98px;
+  left: 302px;
+  font-weight: 300;
+}
+.roas-on-all-container {
+  top: 93px;
+  left: 648px;
+}
+.k,
+.m-parent {
+  position: absolute;
+  left: 0;
+}
+.m-parent {
+  top: 1px;
+  width: 886px;
+  height: 174px;
+  text-align: center;
+  font-size: 25px;
+}
+.k {
+  top: 0;
+  line-height: 17.57px;
+  font-weight: 200;
+}
+.group-parent,
+.k-wrapper,
+.x-wrapper {
+  position: absolute;
+  top: 1px;
+  left: 306px;
+  width: 227px;
+  height: 57px;
+}
+.group-parent,
+.x-wrapper {
+  top: 0;
+  left: 699px;
+  width: 137px;
+}
+.group-parent {
+  top: 2138px;
+  left: 520px;
+  width: 886px;
+  height: 175px;
+  text-align: left;
+  font-size: 80px;
+}
+.interested-in-delving {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 469px);
+  letter-spacing: 0.96px;
+  line-height: 48px;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+.if-youd-like {
+  font-weight: 300;
+}
+.helloabccom {
+  font-weight: 500;
+}
+.if-youd-like-container1 {
+  width: 100%;
+}
+.if-youd-like-container {
+  position: absolute;
+  top: 98px;
+  left: calc(50% - 432px);
+  font-size: 28px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  width: 864px;
+}
+.interested-in-delving-deeper-i-parent {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 469px);
+  width: 938px;
+  height: 197px;
+  text-align: left;
+  font-size: 45px;
+  font-family: Roboto;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  width: 372.51px;
+  height: 60px;
+}
+.contact-us {
+  position: absolute;
+  top: 16px;
+  left: calc(50% - 80.74px);
+  letter-spacing: 0.96px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 162.42px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 282px;
+  left: 487px;
+  width: 372.51px;
+  height: 60px;
+  color: #000;
+}
+.frame-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+}
+.ring-us-on {
+  position: absolute;
+  width: 67.2%;
+  top: 26.67%;
+  left: 16%;
+  letter-spacing: 0.96px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-container {
+  position: absolute;
+  top: 282px;
+  left: 78px;
+  width: 373px;
+  height: 60px;
+}
+.group-container {
+  position: absolute;
+  top: 2593px;
+  left: calc(50% - 469px);
+  width: 938px;
+  height: 342px;
+  font-size: 18px;
+  font-family: Poppins;
+}
+.abctechnology-solutions-pvt {
+  position: absolute;
+  top: 3245px;
+  left: calc(50% - 280px);
+  line-height: 26px;
+  font-weight: 300;
+  text-align: left;
+  opacity: 0.9;
+}
+
